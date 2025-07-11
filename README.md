@@ -1,2 +1,3 @@
-# DOM
-javascript
+#first practice
+about github
+
